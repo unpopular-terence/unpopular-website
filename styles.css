@@ -139,3 +139,50 @@ a {
 .mtxt {
     padding: 5px;
 }
+
+.blockquote {
+    padding: 20px 100px;
+    background: #e5e7eb;
+}
+
+.inspire {
+    padding: 10px;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.blockquote footer {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: right;
+}
+
+.promo {
+    padding: 20px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.discount {
+    background: #3882f6;
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+    width: 900px;
+    border-radius: 20px;
+}
+
+.discount button {
+    padding: 5px 10px;
+    border-radius: 8px;
+    background: #3882f6;
+}
+
+.footer {
+    padding: 10px 100px;
+    text-align: center;
+    color: #e5e7eb;
+}
